@@ -1,0 +1,40 @@
+body{
+    
+    background-color:lightblue;
+    margin-left: 500px;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+img{
+    width:250px;
+    position: absolute;
+    top:150px
+}
+button{
+    font-weight: bold;
+    background-color:cornflowerblue;
+    color:yellow;
+}
+footer{
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  font-weight: bolder;  
+  font-size: x-small;
+  left:550px
+}
+form{
+    position: absolute;
+    top:300px;
+}
+h1{
+    position: absolute;
+    top:80px
+}
+p{
+    position:absolute;
+    top:350px;
+}
